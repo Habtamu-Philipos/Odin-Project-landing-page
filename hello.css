@@ -1,0 +1,158 @@
+
+.heading{
+    background-color: #1d2736;
+    padding: 8px;
+    
+}
+.container{
+    display:flex;
+    justify-content:space-around;
+    margin-top: 10px;}
+.three-links{
+    display:flex;
+    justify-content: flex-end;
+    margin-bottom: 60px;
+    
+}
+a{ 
+    text-decoration: none;
+    color:#E5E7EB;
+    font-size: 18px;
+}
+ul{
+    display: flex;
+    margin: 0;
+    padding: 0;
+    gap: 32px;
+    list-style-type: none;
+}
+.container-1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  
+}
+#one{
+    color: #F9FAF8;
+    font-size:48px;
+    font-weight: bolder;
+    margin-right: 80px;
+    flex-wrap: wrap;
+}
+#two{
+    color:#E5E7EB;
+    font-size: 18px;
+    margin-top: -50px;
+
+}
+.gallary{
+    max-width: 300px;
+    height:auto;
+    flex:1;
+    margin-right: 150px;
+}
+button{
+    background-color: #3882F6;
+    margin-bottom: 80px;
+    padding: 8px 20px;
+    border: 0px;
+    border-radius: 5px;
+    color: #F9FAF8;
+}
+.info{
+    background-color:#F9FAF8;
+    text-align: center;
+    
+
+}
+.container-2{
+     
+    display:flex;
+    align-self: center;
+    justify-content: center;
+    flex-wrap:wrap;
+    gap:40px;
+    padding: 10px;
+    background-color:#F9FAF8;
+}
+.h-one{
+    font-size: 45px;
+    font-weight: bolder;
+    color: #1F2937;
+}
+.item{
+    width:200px;
+    height:200px;
+    border:4px solid  #3882F6;
+    background-color: #F9FAF8;
+    font-size: 20px;
+    margin-bottom:140px;
+    border-radius: 7px;
+    font-weight:lighter;  
+    color:#1F2937;
+}
+.clients{
+    background-color: #E5E7EB;
+    color:#1F2937;
+    margin-top: -37px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px;
+}
+#p-one{
+    font-size: 36px;
+    font-style: italic;
+    font-weight:lighter ;
+}
+#p-two{
+     margin-left: 700px;
+    font-weight: bold;
+}
+.call{
+    background-color:#F9FAF8 ;
+   
+   
+    
+}
+.finishing{
+    background-color: #3882F6;
+    color:#F9FAF8;
+    padding:15px;  
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly;
+    margin: 200px; 
+    height: 100px; 
+    flex: 1;
+}
+#final{
+     margin-top: 80px;
+    align-self: center;
+    border: 2px solid white ;
+    margin-right: 150px; ;
+   
+}
+
+    
+ #final1{
+    margin-top: -20px;
+
+ }   
+
+.container-3{
+    margin-right: 100px;
+    
+}
+.footer{
+    background-color: #1F2937;
+    padding:25px;
+}
+#finished{
+    color:#F9FAF8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
